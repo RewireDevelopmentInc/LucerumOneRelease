@@ -18,8 +18,6 @@ Every version is listed under [**Releases**](../../releases). Choose the newest 
 | Windows | `.exe` setup or `.msi` |
 | macOS (Apple Silicon) | `.dmg` |
 
-Every installer is signed by Lucerum, and the macOS one is also notarized by Apple. If Windows says "Unknown publisher" or macOS refuses to open the app, do not install it. Contact us instead.
-
 ---
 
 ## License & Usage
